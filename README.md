@@ -23,6 +23,9 @@ HTML/CSS: Interface web simples para a inserção de notas e visualização dos 
 Bootstrap: Estilização básica da interface.
 
 ## Requisitos do Sistema
+
 Servidor com suporte a PHP 7 ou superior.
+
 Navegador web (para acessar a interface).
+
 Servidor local como XAMPP ou WAMP.
